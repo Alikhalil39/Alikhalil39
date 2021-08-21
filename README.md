@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alikhalil39
 - 👀 I’m interested in Android development
-- 🌱 I’m currently learning fluter
+- 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on android
 - 📫 How to reach me, your can reach me via e-mail:(Alikhalil3999@gmail.com)
 
